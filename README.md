@@ -17,8 +17,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thorvaldd)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorvaldd)](https://github.com/anuraghazra/github-readme-stats)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thorvaldd&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorvaldd)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thorvaldd&show_icons=true&count_private=true)
 </div>
 
 ![GitHub metrics](https://metrics.lecoq.io/Thorvaldd)  
