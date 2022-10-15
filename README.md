@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><img src="octocats/mona-whisper.gif" width="40" height="40"> Hi there!</h1> 
 
 <!--
 **Thorvaldd/Thorvaldd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
